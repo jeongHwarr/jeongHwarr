@@ -5,7 +5,7 @@
 
 ### ⚡<b>Experience</b>
 - Internship, 1Day1Song, Seoul, Korea, as a Software Engineer (2016.01~2016.03).
-- Internship, Electronics and Telecommunications Research Institute (ETRI), as a Software Engineer(2017.06~2017.08).
+- Internship, Electronics and Telecommunications Research Institute (ETRI), as a Software Engineer (2017.06~2017.08).
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonghwaYoo)](https://github.com/anuraghazra/github-readme-stats)
 <!--
