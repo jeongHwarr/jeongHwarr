@@ -1,6 +1,6 @@
 ![profile-view](https://komarev.com/ghpvc/?username=jeongHwarr)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://jeonghwarr.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Mail&logoColor=white&link=mailto:green2368@naver.com)](mailto:green2368@naver.com)
+[![Mail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=GMail&logoColor=white&link=mailto:green2368@naver.com)](mailto:green2368@naver.com)
 ### 🔭 <b>Career</b>
 - Received the B.S. degrees, in Computer Science and Electrical Engineering from Handong Global University, Pohang, Korea, in 2017.
 - Received the M.S. degrees, in Electrical Engineering and Computer Science from Gwangju Institute of Science and Technology (GIST), Gwangju, Korea, in 2019.
