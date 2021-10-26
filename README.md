@@ -7,7 +7,7 @@
 - Received the B.S. degrees, in Computer Science and Electrical Engineering from Handong Global University, Pohang, Korea, in 2017.
 - Received the M.S. degrees, in Electrical Engineering and Computer Science from Gwangju Institute of Science and Technology (GIST), Gwangju, Korea, in 2019.
 - Joined the VIEWORKS, Anyang, Korea, as a Medical AI Research Engineer, in 2020.
-- Joined the Kaier, Seoul, Korea, as a AI Researcher, in 2021.
+- Joined the KAIER, Seoul, Korea, as a AI Researcher, in 2021.
 
 ### ⚡<b>Experience</b>
 - Internship, 1Day1Song, Seoul, Korea, as a Software Engineer (2016.01~2016.03).
