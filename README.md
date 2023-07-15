@@ -13,7 +13,8 @@
 - Internship, 1Day1Song, Seoul, Korea, as a Software Engineer (2016.01~2016.03).
 - Internship, Electronics and Telecommunications Research Institute (ETRI), as a Software Engineer (2017.06~2017.08).
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeongHwarr)](https://github.com/jeongHwarr/github-readme-stats)
+
+ [![Anurag's github stats](https://github-readme-stats-jeonghwarr.vercel.app/api?username=jeongHwarr)](https://github.com/jeongHwarr/github-readme-stats)
 <!--
 **jeonghwaYoo/jeonghwaYoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
