@@ -14,7 +14,7 @@
 - Internship, Electronics and Telecommunications Research Institute (ETRI), as a Software Engineer (2017.06~2017.08).
 
 
- [![Jeonghwarr's github stats](https://github-readme-stats-jeonghwarr.vercel.app/api?username=jeongHwarr)](https://github.com/jeongHwarr/github-readme-stats)
+ [![Jeonghwarr's github stats](https://github-readme-stats-seven-eosin-58.vercel.app/api?username=jeongHwarr)](https://github.com/jeongHwarr/github-readme-stats)
 <!--
 **jeonghwaYoo/jeonghwaYoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
