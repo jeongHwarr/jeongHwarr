@@ -1,4 +1,5 @@
 ![profile-view](https://komarev.com/ghpvc/?username=jeongHwarr)
+[![LinkedIn](http://img.shields.io/badge/-LinkedIn-navy?style=flat&logo=linkedin&link=https://zzsza.github.io/)](https://www.linkedin.com/in/jeonghwa-yoo-8403a716b)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github&link=https://zzsza.github.io/)](https://jeonghwarr.github.io/)
 [![Mail Badge](https://img.shields.io/badge/Mail-d14836?style=flat&logo=invoice-ninja&logoColor=white&link=mailto:green2368@naver.com)](mailto:green2368@naver.com)
 
