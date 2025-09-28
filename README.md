@@ -5,7 +5,7 @@
 
 
 ### 🔭 <b>Career</b>
-- Joined the [Metacle](https://www.kaier.co.kr/), Bundang, Korea, as a AI Senior Researcher, in 2024. 
+- Joined the [METACLE](https://meta-cle.co.kr/main/index.html#0), Bundang, Korea, as a AI Senior Researcher, in 2024. 
 - Joined the [KAIER](https://www.kaier.co.kr/), Seoul, Korea, as a AI Researcher, in 2021.
 - Joined the [VIEWORKS](https://www.vieworks.com/), Anyang, Korea, as a Medical AI Research Engineer, in 2020.
 - Received the M.S. degrees, in Electrical Engineering and Computer Science from Gwangju Institute of Science and Technology (GIST), Gwangju, Korea, in 2019.
