@@ -12,7 +12,7 @@
 - Received the B.S. degrees, in Computer Science and Electrical Engineering from Handong Global University, Pohang, Korea, in 2017.
 
 ### ⚡<b>Experience</b>
-- Internship, Electronics and Telecommunications Research Institute (ETRI), as a Software Engineer (2017.06~2017.08).
+- Internship, [Electronics and Telecommunications Research Institute (ETRI)](https://www.etri.re.kr/intro.html), as a Software Engineer (2017.06~2017.08).
 - Internship, 1Day1Song, Seoul, Korea, as a Software Engineer (2016.01~2016.03).
 
  [![Jeonghwarr's github stats](https://github-readme-stats-seven-eosin-58.vercel.app/api?username=jeongHwarr)](https://github.com/jeongHwarr/github-readme-stats)
